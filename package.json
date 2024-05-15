@@ -1,0 +1,24 @@
+{
+  "name": "hooriya-quiz",
+  "version": "1.0.2",
+  "description": "",
+  "main": "main.js",
+  "type":"module",
+  "bin": "main.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^9.2.21"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
